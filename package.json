@@ -1,6 +1,6 @@
 {
   "name": "phantomjs-prebuilt",
-  "version": "2.5.0",
+  "version": "2.5.0-beta",
   "keywords": [
     "phantomjs",
     "headless",
